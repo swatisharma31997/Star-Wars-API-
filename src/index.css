@@ -12,3 +12,20 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
     monospace;
 }
+
+.button button-info {
+  color: white;
+  font-size: 2em;
+  width: 40px;
+  height: 40px;
+  padding: 0px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  cursor: pointer;
+  background: #73ff73;
+  border-radius: 10px;
+  box-shadow: 1px 1px 1px #47a947;
+  margin: 20px auto 0;
+}
+
